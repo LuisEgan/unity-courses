@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="front_target" size="15.000000 24.458599" />
+    <ImageTarget name="back_target" size="15.000000 24.458599" />
+    <ImageTarget name="FoodCard" size="15.000000 8.298226" />
+  </Tracking>
+</QCARConfig>
